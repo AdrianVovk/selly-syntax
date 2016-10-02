@@ -1,5 +1,5 @@
 {
-  "name": "slut-syntax",
+  "name": "selly-syntax-ide",
   "theme": "syntax",
   "version": "2.0.0",
   "description": "Flat syntax theme",
@@ -10,7 +10,7 @@
     "flat",
     "metro"
   ],
-  "repository": "https://github.com/sexual/slut-syntax",
+  "repository": "https://github.com/AdrianVovk/selly-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

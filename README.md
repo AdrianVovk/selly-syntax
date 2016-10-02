@@ -1,4 +1,4 @@
-## Slut UI theme
+## Selly Syntax theme
 
 A flat version of the original atom syntax, but nicer.
 
@@ -7,9 +7,9 @@ A flat version of the original atom syntax, but nicer.
 
 ### Install
 
-Go to the package manager and search "slut-syntax"
+Go to the package manager and search "selly-syntax-ide"
 
 ### FAQ
 
-__Why don't you make you own snytax theme from scratch?__
+__Why don't you make you own syntax theme from scratch?__
 As there isn't a need
