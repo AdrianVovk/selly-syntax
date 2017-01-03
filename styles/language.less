@@ -40,6 +40,10 @@
   color: @hue-3;
 
   &.type {
+    &.function {
+      conole: @hue-6
+    }
+
     &.annotation,
     &.primitive {
       color: @hue-3;
@@ -86,7 +90,10 @@
   }
 
   &.parameter {
-    color: @mono-1;
+    color: @mono-2;
+    &.function {
+      color: @hue-5
+    }
   }
 }
 
@@ -254,6 +261,10 @@
 }
 
 // Languages -------------------------------------------------
+
+.underline {
+  border-bottom: thin dotted white 
+}
 
 .markup {
   &.bold {
